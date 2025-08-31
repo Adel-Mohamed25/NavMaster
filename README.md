@@ -25,10 +25,27 @@ You can view the live demo here:
 ---
 
 ## 📂 Project Structure
+```plaintext
+NavMaster/
 │-- index.html       # Main HTML file
 │-- style.css        # CSS styles (Flexbox + Responsive)
 │-- script.js        # JavaScript for toggle menu
 │-- README.md        # Project documentation
+
+---
+
+## 🛠️ Technologies Used
+- **HTML5**
+- **CSS3** (Flexbox + Media Queries)
+- **JavaScript (ES6)**
+
+---
+
+## 👨‍💻 Author
+**Adel Mohamed**  
+- GitHub: [Adel-Mohamed25](https://github.com/Adel-Mohamed25)  
+- LinkedIn: [https://www.linkedin.com/in/adelmohamed25/]
+
 
 ---
 
