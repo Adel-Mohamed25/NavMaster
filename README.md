@@ -46,19 +46,3 @@ NavMaster/
 **Adel Mohamed**  
 - GitHub: [Adel-Mohamed25](https://github.com/Adel-Mohamed25)  
 - LinkedIn: [https://www.linkedin.com/in/adelmohamed25/]
-
-
----
-
-## 🛠️ Technologies Used
-- **HTML5**
-- **CSS3** (Flexbox + Media Queries)
-- **JavaScript (ES6)**
-
----
-
-## 👨‍💻 Author
-**Adel Mohamed**  
-- GitHub: [Adel-Mohamed25](https://github.com/Adel-Mohamed25)  
-- LinkedIn: [https://www.linkedin.com/in/adelmohamed25/]
-
