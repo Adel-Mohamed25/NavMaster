@@ -25,12 +25,10 @@ You can view the live demo here:
 ---
 
 ## 📂 Project Structure
-NavMaster/
 │-- index.html       # Main HTML file
 │-- style.css        # CSS styles (Flexbox + Responsive)
 │-- script.js        # JavaScript for toggle menu
 │-- README.md        # Project documentation
-
 
 ---
 
